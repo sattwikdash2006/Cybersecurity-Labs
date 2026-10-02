@@ -1,8 +1,8 @@
 # Cybersecurity-Labs
 My practical lab screenshots and hands-on technical project demonstrations.
-## 🐧 Lab 01: Linux Command-Line File Management
+## 🐧 Lab 01: Linux Directory Navigation & Operations
 
-**Description:** Practiced basic Linux terminal operations for creating, listing, and removing files and directories using commands like `pwd`, `ls`, `mkdir`, `touch`, and `rm`.
+**Description:** Practiced basic Linux terminal navigation and directory handling using fundamental CLI commands (`pwd`, `ls`, and `cd`).
 
 ### 📸 Execution Proof:
-![Linux File Management](./linux-navigation.lab.jpeg)
+![Linux Navigation Lab](./linux-navigation-lab.jpeg.jpeg)
