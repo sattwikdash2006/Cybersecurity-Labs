@@ -10,4 +10,4 @@ My practical lab screenshots and hands-on technical project demonstrations.
 ## Lab 02: Vulnerability Assessment Report
 
 ### Proof:
-![Vulnerability Assessment Report](Vulnerability assessment report.pdf)
+![Vulnerability Assessment Report](Vulnerability-assessment-report.pdf)
