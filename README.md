@@ -5,7 +5,7 @@ My practical lab screenshots and hands-on technical project demonstrations.
 **Description:** Practiced basic Linux terminal navigation and directory handling using fundamental CLI commands (`pwd`, `ls`, and `cd`).
 
 ### 📸 Execution Proof:
-[Linux Navigation Lab](linux-navigation-lab.jpeg)
+![Linux Navigation Lab](linux-navigation-lab.jpeg)
 
 ## Lab 02: Vulnerability Assessment Report
 
